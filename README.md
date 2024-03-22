@@ -11,3 +11,7 @@ In each iteration, the neighbours of the node with the smallest value is visited
 
 ## Comparison
 The code was run for a 20x20 map and the following algorithm performance comparison was made. 
+
+<p align='center'><img src="" /></p>
+
+<p align='center'><img src="" /></p>
